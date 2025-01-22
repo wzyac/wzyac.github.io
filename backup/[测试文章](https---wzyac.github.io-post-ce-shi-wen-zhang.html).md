@@ -1,1 +1,0 @@
-![test](https://api.mtyqx.cn/tapi/random.php)
